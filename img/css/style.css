@@ -1,0 +1,54 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-family: "Handjet", sans-serif;
+    font-size: 1.43em;
+}
+
+body{
+background-color: blanchedalmond;
+color: rgb(0, 0, 0);
+
+
+}
+
+
+    header{
+background-color: blueviolet;
+text-align: center;
+padding: 20px 0;
+
+    }
+
+footer {
+background-color: blueviolet;
+    padding: 10px 50px ;
+}
+.about{
+    background-color: blueviolet;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+h2{
+    text-align: center;
+    font-size: 2em;
+    color: rgba(0, 152, 253, 0.568);
+    text-transform: uppercase;
+    text-decoration: overline;
+}
+p{
+    font-size: 1.25em;
+    line-height: 2rem;
+}
+.avatar{
+    display: block;
+    margin: 0 auto;
+}
+.articles{
+    padding: 20px 50px ;
+
+}
